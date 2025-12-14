@@ -1,49 +1,51 @@
-# 👋 Hi, I’m Vraj Contractor (@Vraj-x2)
+👋 Hi, I’m Vraj Contractor (@Vraj-x2)
 
-Welcome to my GitHub! I’m a final-year Software Development & Network Engineering student at Sheridan College, passionate about building scalable backend systems, full-stack applications, and experimenting with emerging technologies.
+Welcome to my GitHub! I’m a **Software Engineering graduate (Dec 2025)** from Sheridan College, focused on building **scalable backend systems, full stack web applications, and real world software solutions**.
 
----
-
-### 🚀 What I’m Working On
-- Spring Boot microservices, REST APIs, and cloud-integrated solutions
-- React and Angular web projects to enhance frontend skills
-- AI integrations using tools like Google Gemini
-- Personal projects to sharpen performance optimization and clean code practices
+I enjoy working across the stack, with a strong emphasis on **Spring Boot, REST APIs, microservices, and modern frontend frameworks**.
 
 ---
 
-### 🌱 What I’m Currently Learning
-- Advanced Java backend patterns
-- Cloud architecture (AWS, Docker, Kubernetes)
-- Open-source contributions and best practices
-- System design for large-scale applications
+## 🚀 What I Work On
+
+- Full stack applications using **Spring Boot, React, and Angular**
+- **RESTful APIs** and microservices with clean, maintainable architecture
+- AI integrated applications using tools like **Google Gemini**
+- Containerized applications using **Docker** and cloud ready designs
+- Personal and academic projects focused on performance, scalability, and clean code
 
 ---
 
-### 💬 Let’s Collaborate
-I love working on:
-- Backend-heavy projects with Java, Python, or Spring Boot
-- Full-stack apps with modern web frameworks (React, Angular)
-- Open-source initiatives that make a real-world impact
-- Learning-focused teams that value growth and mentorship
+## 🌱 Currently Improving
+
+- Advanced Java and Spring Boot backend patterns
+- Cloud and container technologies (**AWS, Docker, Kubernetes basics**)
+- System design and backend scalability concepts
+- Writing production ready, well documented code
 
 ---
 
-### 📫 How to Reach Me
-- ✉️ Email: vrajcontractor20@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/vraj20](https://www.linkedin.com/in/vraj20)  
-- 🌐 Portfolio: [vraj-x2.github.io/Portfolio](https://vraj-x2.github.io/Portfolio)
+## 💬 Open to Collaboration
+
+I’m interested in collaborating on:
+
+- Backend focused projects using **Java, Spring Boot, or Python**
+- Full stack applications with **React or Angular**
+- Open source or real world projects with practical impact
+- Teams that value learning, clean engineering practices, and collaboration
 
 ---
 
-### 😄 Pronouns
-He/Him
+## 📫 How to Reach Me
+
+- ✉️ Email: **vrajcontractor20@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/vraj20/**
+- 🌐 Portfolio: **https://vraj-x2.github.io/Portfolio**
 
 ---
 
-### ⚡ Fun Fact
-I’m driven by curiosity! Whether it’s learning a new tech stack, improving system performance, or diving into collaborative projects, I’m always eager to explore and build.
+## ⚡ A Bit About Me
 
----
+I enjoy learning by building. Whether it’s improving system performance, designing cleaner APIs, or exploring new technologies, I’m always motivated to grow as a software engineer and take on meaningful challenges.
 
-Thanks for stopping by — feel free to check out my repositories and connect!
+Thanks for visiting my profile. Feel free to explore my repositories and connect!
